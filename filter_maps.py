@@ -1,6 +1,8 @@
 """ Filters and Maps in Python"""
 
 numbers = list(range(10))
+
+
 def check_evens(num):
     return num % 2 == 0
 def square(num):
@@ -18,8 +20,8 @@ def square(num):
 # print(squared)
 # print(evens)
 
-def name_printer():
-    print("=============================================")
-    print("Desmond")
-    print("=============================================")
-name_printer()
+# def name_printer():
+#     print("=============================================")
+#     print("Desmond")
+#     print("=============================================")
+# name_printer()
