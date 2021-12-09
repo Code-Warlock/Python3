@@ -11,35 +11,17 @@ from datetime import time , date , datetime ,timedelta
 # print(f"Full Date of birth : {day_of_birth}/{month_of_birth}/{year_of_birth}")
 
 # dob = date(year_of_birth , month_of_birth , day_of_birth)
-date_now = date.today()
-
-
+# date_now = date.today()
 # delta_age = date_now - dob
 # real_age = delta_age.days // 365
 # print(str(real_age) + "yrs")
-print(f"{date_now:%A/%b/%Y , %j}")
+# print(f"{date_now:%A/%b/%Y , %j}")
 # print(age)
 
 # start_time = time(23 , 12 , 34, 67)
 # start_date = date(2011, 12, 23)
 # print(start_date)
 # print(start_time)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #yyyy/mm/dd
 # print(time(12 , 23 , 56))
