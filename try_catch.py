@@ -1,6 +1,6 @@
 """ Handling Errors and Exception in Python """
 """ try """
-import time
+# import time
 # try:
 #     # age = int(input("Enter your age : "))
 #     # time.sleep(3)
@@ -45,12 +45,12 @@ import time
 #     print("Hello")
 
 
-try:
-    age = int(input("Enter your age : "))
-
-    if age > 30:
-        raise ValueError("Age above 30 is invalid")
-    else:
-        print("Welcome")
-except ValueError:
-    print("You are too old!")
+# try:
+#     age = int(input("Enter your age : "))
+#
+#     if age > 30:
+#         raise ValueError("Age above 30 is invalid")
+#     else:
+#         print("Welcome")
+# except ValueError:
+#     print("You are too old!")
