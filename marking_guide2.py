@@ -6,10 +6,6 @@ if ".txt" in answer_file:
     print("file name successful!")
 else:
     answer_file = "".join(list(answer_file) + list(".txt"))
-    # listed = list(answer_file)
-    # extension_list = list(".txt")
-    # full_filename = listed + extension_list
-    # answer_file = "".join(full_filename)
 
 
 with open(answer_file , "a+") as f:
