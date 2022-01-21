@@ -7,6 +7,8 @@ Students / Student took an exam of variable amount of questions.
 ==> Ask the student to type the answers to the questions he took.
 ==> Tell the user his result from the number of questions he answered
 """
+
+
 while True:
     try:
         string_of_answers = "abcd"
