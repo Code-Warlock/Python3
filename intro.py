@@ -26,9 +26,6 @@ print(human1.legs)
 # human1 = Human()
 # des = Human()
 
-# print(human1.say_name())
-# print(des.say_name())
-
 
 
 
